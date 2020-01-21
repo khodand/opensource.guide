@@ -1,28 +1,31 @@
-en:
-  locale_name: English
+ru:
+  locale_name: Русский
   nav:
-    about: About
-    contribute: Contribute
+    about: О проекте
+    contribute: Внести вклад
   index:
-    lead: Open source software is made by people just like you. Learn how to launch and grow your project.
+    lead: Программное обеспечение с открытым исходным кодом создается такими же людьми, как и вы. Узнайте, как запустить и развивать свой проект.
+    # @todo Translate 'Friday' phrase
+    # @body I do not understand the context of it and what Friday is
     opensourcefriday: It's Friday! Invest a few hours contributing to the software you use and love
   article:
-    table_of_contents: Table of Contents
-    back_to_all_guides: Back to all guides
-    related_guides: Related Guides
+    table_of_contents: Содержание
+    back_to_all_guides: Вернуться к списку
+    related_guides: Связанные руководства
   footer:
     contribute:
-      heading: Contribute
+      heading: Внести вклад
+      description: Есть предложения? Этот контент с открытым исходным кодом. Помогите на его улучшить.
       description: Want to make a suggestion? This content is open source. Help us improve it.
-      button: Contribute
+      button: Внести вклад
     subscribe:
-      heading: Stay in touch
-      description: Be the first to hear about GitHub's latest open source tips and resources.
-      label: Email Address
-      button: Subscribe
+      heading: Оставайтесь на связи
+      description: Будьте первыми, кто узнает новейшие советы и ресурсы об открытом исходном коде от Github.
+      label: Email адрес
+      button: Подписатья
     byline:
-      # [code], [love], and [github] will be replaced by octicons
-      format: "[code] with [love] by [github] and [friends]"
+      # [code], [love], с [github] будет замещено октиконками
+      format: "[code] с [love] от [github] и [friends]"
       # Label for code octicon
       code_label: code
       # Label for love octicon
