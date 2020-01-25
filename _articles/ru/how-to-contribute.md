@@ -1,11 +1,11 @@
 ---
-lang: en
-title: How to Contribute to Open Source
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
+lang: ru
+title: Участие в Open Source
+description: Хотите сделать вклад в разработку открытого ПО? Руководство по участию в Open Source для новичков и ветеранов.
 class: contribute
 toc:
-  why-contribute-to-open-source: "Why contribute to open source?"
-  what-it-means-to-contribute: "What it means to contribute"
+  why-contribute-to-open-source: "Для чего это нужно?"
+  what-it-means-to-contribute: "Что это значит \"поддерживать open source проект\""
   orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
   finding-a-project-to-contribute-to: "Finding a project to contribute to"
   how-to-submit-a-contribution: "How to submit a contribution"
@@ -17,21 +17,21 @@ related:
   - building
 ---
 
-## Why contribute to open source?
+## Для чего это нужно?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+  Работа над \[freenode\] помогла мне освоить множество навыков, которые теперь я смогла использовать во время обучения в универститете и теперь, на своей работе. Я думаю, что моя работа над open source была для меня так же полезна, как и для самих проектов!
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+Работа над open source проектами может стать плодотворным способом обучения, преподавания и накопления опыта в абсолютно любой сфере, какую Вы можете себе представить. 
 
-Why do people contribute to open source? Plenty of reasons!
+Почему люди учавствуют в open source? На это есть куча причин!
 
-### Improve software you rely on
+### Усовершенствуйте программное обеспечение, которым сами пользуетесь
 
 Lots of open source contributors start by being users of software they contribute to. When you find a bug in an open source software you use, you may want to look at the source to see if you can patch it yourself. If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
 
