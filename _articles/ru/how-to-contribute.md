@@ -1,11 +1,11 @@
 ---
-lang: en
-title: How to Contribute to Open Source
-description: Want to contribute to open source? A guide to making open source contributions, for first-timers and for veterans.
+lang: ru
+title: Участие в Open Source
+description: Хотите сделать вклад в разработку открытого ПО? Руководство по участию в Open Source для новичков и ветеранов.
 class: contribute
 toc:
-  why-contribute-to-open-source: "Why contribute to open source?"
-  what-it-means-to-contribute: "What it means to contribute"
+  why-contribute-to-open-source: "Для чего это нужно?"
+  what-it-means-to-contribute: "Что это значит \"поддерживать open source проект\""
   orienting-yourself-to-a-new-project: "Orienting yourself to a new project"
   finding-a-project-to-contribute-to: "Finding a project to contribute to"
   how-to-submit-a-contribution: "How to submit a contribution"
@@ -17,35 +17,35 @@ related:
   - building
 ---
 
-## Why contribute to open source?
+## Для чего это нужно?
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+  Работа над \[freenode\] помогла мне освоить множество навыков, которые теперь я смогла использовать во время обучения в универститете и теперь, на своей работе. Я думаю, что моя работа над open source была для меня так же полезна, как и для самих проектов!
   <p markdown="1" class="pquote-credit">
 — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
-Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
+Работа над open source проектами может стать плодотворным способом обучения, преподавания и накопления опыта в абсолютно любой сфере, какую Вы можете себе представить. 
 
-Why do people contribute to open source? Plenty of reasons!
+Почему люди учавствуют в open source? На это есть куча причин!
 
-### Improve software you rely on
+### Усовершенствуйте программное обеспечение, которым сами пользуетесь
 
-Lots of open source contributors start by being users of software they contribute to. When you find a bug in an open source software you use, you may want to look at the source to see if you can patch it yourself. If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
+Многие из тех, кто вкладывается в open source ПО начинали с того, что были его активными пользователями. Если вы найдете баг в ПО которое используете, вам возможно захочется исправить его самолично. Поступив так, вы можете быть уверены, что вы и ваши друзья (когда обновятся до нового релиза) получитье пользу от вашего патча.
 
-### Improve existing skills
+### Прокачивайте свои скилы
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+Кодинг, дизайн интерфейсов, графический дизайн, письмо или менеджмент, если вы ищите практики, то для вас найдется задача в open source проекте.
 
-### Meet people who are interested in similar things
+### Встречайте людей с общими интересами
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
+В open source проекты с открытыми, дружелюбными сообществами люди продолжают возвращаться спустя много лет. Многие начинаю дружить с участия в одном проекте, будь-то встречи друг с другом на конференциях или вечерняя болтовня о буррито.
 
-### Find mentors and teach others
+### Находите наставников и обучайте сами
 
-Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
+Работая в команде над общим проектом, вы будте объяснять как вы работаете, а так же просить о помощи других. Процессы обучения и преподования будут полезными для всех, кто принимает в них участие.
 
 ### Build public artifacts that help you grow a reputation (and a career)
 
