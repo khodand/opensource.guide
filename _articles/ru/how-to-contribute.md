@@ -33,19 +33,19 @@ related:
 
 ### Усовершенствуйте программное обеспечение, которым сами пользуетесь
 
-Lots of open source contributors start by being users of software they contribute to. When you find a bug in an open source software you use, you may want to look at the source to see if you can patch it yourself. If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
+Многие из тех, кто вкладывается в open source ПО начинали с того, что были его активными пользователями. Если вы найдете баг в ПО которое используете, вам возможно захочется исправить его самолично. Поступив так, вы можете быть уверены, что вы и ваши друзья (когда обновятся до нового релиза) получитье пользу от вашего патча.
 
-### Improve existing skills
+### Прокачивайте свои скилы
 
-Whether it's coding, user interface design, graphic design, writing, or organizing, if you're looking for practice, there's a task for you on an open source project.
+Кодинг, дизайн интерфейсов, графический дизайн, письмо или менеджмент, если вы ищите практики, то для вас найдется задача в open source проекте.
 
-### Meet people who are interested in similar things
+### Встречайте людей с общими интересами
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
+В open source проекты с открытыми, дружелюбными сообществами люди продолжают возвращаться спустя много лет. Многие начинаю дружить с участия в одном проекте, будь-то встречи друг с другом на конференциях или вечерняя болтовня о буррито.
 
-### Find mentors and teach others
+### Находите наставников и обучайте сами
 
-Working with others on a shared project means you'll have to explain how you do things, as well as ask other people for help. The acts of learning and teaching can be a fulfilling activity for everyone involved.
+Работая в команде над общим проектом, вы будте объяснять как вы работаете, а так же просить о помощи других. Процессы обучения и преподования будут полезными для всех, кто принимает в них участие.
 
 ### Build public artifacts that help you grow a reputation (and a career)
 
